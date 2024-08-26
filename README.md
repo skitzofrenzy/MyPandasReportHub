@@ -10,7 +10,7 @@ This project provides a Python-generated monthly schedule designed to help with 
 - **Excel Output:** Generates an Excel file with separate sheets for each week of the month, making it easy to follow your schedule.
 
 ## Prerequisites
-- Python 3.x
+-  [Python 3.x](https://www.python.org/) & pip3
 - Pandas: `pip install pandas`
 - XlsxWriter: `pip install XlsxWriter`
 
