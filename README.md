@@ -18,7 +18,7 @@ This project provides a Python-generated monthly schedule designed to help with 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Personal-Development-Schedule.git
+   [git clone https://github.com/yourusername/Personal-Development-Schedule.git](https://github.com/skitzofrenzy/Personal-Development-Schedule.git)
 2. **Navigate to the Project Directory:**
    ```bash
    cd Personal-Development-Schedule
