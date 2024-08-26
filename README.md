@@ -1,4 +1,4 @@
-# Personal Development Schedule
+# MyPandasReportHub
 
 ## Overview
 This project provides a Python-generated monthly schedule designed to help with focused skill enhancement, cybersecurity training, and professional development. The schedule is structured to balance work, study, and personal growth, with flexible time management suited for professionals working from home.
