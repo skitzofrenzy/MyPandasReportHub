@@ -18,7 +18,7 @@ This project provides a Python-generated monthly schedule designed to help with 
 
 1. **Clone the Repository:**
    ```bash
-   https://github.com/skitzofrenzy/MyPandasReportHub.git
+   git clone https://github.com/skitzofrenzy/MyPandasReportHub.git
 2. **Navigate to the Project Directory:**
    ```bash
    cd Personal-Development-Schedule
