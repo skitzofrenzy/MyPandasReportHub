@@ -1,2 +1,8 @@
+# Ignore venv
 venv/
+
+# Ignore all subdirectories inside output
+output/**/
+
+# Ignore file personal_notes.md
 personal_notes.md
