@@ -21,15 +21,18 @@ This project provides a Python-generated monthly schedule designed to help with 
    git clone https://github.com/skitzofrenzy/MyPandasReportHub.git
 2. **Navigate to the Project Directory:**
    ```bash
-   cd Personal-Development-Schedule
+   cd MyPandasReportHub
 3. **Install the Required Libraries:**
    ```bash
    pip install pandas xlsxwriter
 4. **Run the Script:**
    ```bash
-   python create_schedule.py
-5. **View Your Schedule:**
-   After running the script, an Excel file named `Month_Schedule.xlsx` will be created in the project directory. Open it using Excel or any compatible spreadsheet application to view your customized schedule.
+   python generate.py4.
+5. **Help:**
+   ```bash
+   python generate.py --help
+6. **View Your Schedule:**
+   After running the script, an Excel file named `Month_Schedule.xlsx` will be created in the project output directory. Open it using Excel or any compatible spreadsheet application to view your customized schedule.
 
 ## Customization
 
