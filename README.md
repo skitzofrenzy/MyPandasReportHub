@@ -36,7 +36,7 @@ This project provides a Python-generated monthly schedule designed to help with 
 
 ## Customization
 
-- **Adjust the Schedule:** You can modify the `create_schedule.py` script to adjust the time slots, add more activities, or change the focus areas.
+- **Adjust the Schedule:** You can modify the `generate.py` script to adjust the time slots, add more activities, or change the focus areas.
 - **Update Time Zones:** If you work in a different time zone or have a unique daily routine, you can easily adapt the schedule in the script to match your needs.
 
 ## Contributing
