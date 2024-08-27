@@ -27,7 +27,7 @@ This project provides a Python-generated monthly schedule designed to help with 
    pip install pandas xlsxwriter
 4. **Run the Script:**
    ```bash
-   python generate.py4.
+   python generate.py
 5. **Help:**
    ```bash
    python generate.py --help
